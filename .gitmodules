@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Farhana100/ManageCasaFrontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Farhana100/ManageCasaBackend.git
